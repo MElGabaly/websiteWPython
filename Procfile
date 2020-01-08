@@ -1,0 +1,1 @@
+web: gunicorn scrpt1:app
